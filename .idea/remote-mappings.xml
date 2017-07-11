@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@ssh://tom@127.0.0.1:9999/home/tom/app/anaconda3/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="E:" remote-root="/mnt/e" />
+              <mapping local-root="$PROJECT_DIR$" remote-root="/mnt/e/脑电材料" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

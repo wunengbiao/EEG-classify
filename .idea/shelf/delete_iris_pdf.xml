@@ -1,0 +1,9 @@
+<changelist name="delete_iris_pdf" date="1475052537753" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/delete_iris_pdf/shelved.patch" />
+  <option name="DESCRIPTION" value="delete iris.pdf" />
+  <binary>
+    <option name="BEFORE_PATH" value="com/cn/iris.pdf" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>
